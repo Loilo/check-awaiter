@@ -1,0 +1,19 @@
+{
+  "name": "@loilo/check-awaiter",
+  "version": "1.0.0",
+  "description": "Demo repo to work on sindresorhus/refined-github#1792",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loilo/check-awaiter.git"
+  },
+  "author": "Florian Reuschel <florian@loilo.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loilo/check-awaiter/issues"
+  },
+  "homepage": "https://github.com/Loilo/check-awaiter#readme"
+}
